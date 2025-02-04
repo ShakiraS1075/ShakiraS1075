@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shakira
-- 🌱 Learning with Coursera
+- 📈 Learning with Coursera
 - 🌱 I’m currently taking a Google Cybersecurity course
 - 📫 How to reach me ... sanzshakira1@gmail.com
 - 😄 Pronouns: ... She/Her
