@@ -6,7 +6,7 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+ As a Transportation Security Officer, I am eager to transition into the CyberSecurity field. My goal is to expand my knowledge and acquire new skills to grow within Network Security. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
