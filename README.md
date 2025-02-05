@@ -54,8 +54,7 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Incident Report Analysis
 <!---
 ShakiraS1075/ShakiraS1075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
