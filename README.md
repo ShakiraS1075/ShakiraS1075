@@ -1,8 +1,8 @@
- 👋 Hi, I’m Shakira 
+👋 Hi, I’m Shakira 
  
- <a href="https://linkedin.com/in/shakira-sanz-7b30671b2"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shakira-sanz-7b30671b2"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a detail-oriented cybersecurity enthusiast with a solid foundation in network security and ethical hacking. Therefore, eager to apply my skills and certifications to a challenging cybersecurity role with a forward-thinking organization.
 
 ## Objective
 
