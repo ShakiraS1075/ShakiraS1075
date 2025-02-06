@@ -13,7 +13,7 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk Assessment, Detection and Response       | <a href="https://google.com">Detection Lab</a>|
+| Risk Assessment, Detection and Response       | <a href="https://github.com/ShakiraS1075/Incident-Report-Analysis">Incident Report Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -52,7 +52,7 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
 </div>
 
 ## Projects
-- Incident Report Analysis
+- <a href="https://github.com/ShakiraS1075/Incident-Report-Analysis">Incident Report Analysis</a>
 <!---
 ShakiraS1075/ShakiraS1075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
