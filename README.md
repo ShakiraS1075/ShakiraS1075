@@ -9,19 +9,14 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
  As a Transportation Security Officer, I am eager to transition into the CyberSecurity field. My goal is to expand my knowledge and acquire new skills to grow within Network Security. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Assessment, Detection and Response       | <a href="https://github.com/ShakiraS1075/Incident-Report-Analysis">Incident Report Analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| OWASP Principle and Security Audit            | <a href="https://github.com/ShakiraS1075/Internal-Audit-Test">Internal Audit Test</a>|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +39,6 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,6 +47,7 @@ I am a detail-oriented cybersecurity enthusiast with a solid foundation in netwo
 
 ## Projects
 - <a href="https://github.com/ShakiraS1075/Incident-Report-Analysis">Incident Report Analysis</a>
+- <a href="https://github.com/ShakiraS1075/Internal-Audit-Test">Internal Audit Test</a>
 <!---
 ShakiraS1075/ShakiraS1075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
